@@ -1,0 +1,21 @@
+Data Sources:
+
+CHIPS locations and awards: https://www.semiconductors.org/chips-incentives-awards/
+Commuting zone data https://sites.psu.edu/psucz/data/ 
+Media market data https://public.tableau.com/app/profile/amirgnyawali/viz/TVDMAmap/Sheet1
+Presidential vote count: https://electionlab.mit.edu/data
+
+Script 1:
+Creates CHIPS data set with corresponding county, media markets, and commuting zones.
+
+Script 2:
+Merges presidential election data at the county level to the CHIPS data
+
+Script 3: 
+Models difference and difference of electoral effects of CHIPS funding
+
+Script 4: 
+Preliminary DID graphs and images
+
+Script 5:
+Map of Chips Funding by congressional district presidential vote
